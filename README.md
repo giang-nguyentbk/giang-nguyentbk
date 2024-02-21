@@ -32,7 +32,7 @@ I am a C/C++ Software Engineer <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :seedling: As an integral member of a cross-functional team (XFT), I am tasked with software development for RU (Radio Unit) software which modulates, amplifies and transmits 5G signal. Responsible for studying, developing, testing, documenting and maintaining new features for RU embedded software.
 
-- :zap: In my free time, I develop interesting side-projects such as base infrastructure implementation for C++ or higher programming languages regarding inter-thread, inter-process and inter-host communication, frequently used frameworks like Active Object, Event Loop, Timer, Subscriber-Publisher,... using POSIX system calls, research in CyberSecurity projects like CTF (Capture The Flag), Cheat Engine, Malware, DLL injection, Memory scan/protection, Encryption algorithm like AES, DES, RSA, TwoFish,...
+- :zap: In my free time, I develop interesting side-projects such as base infrastructure implementation for C++ or higher programming languages using C/C++ for inter-thread, inter-process and inter-host communication, or frequently used frameworks like Active Object, Event Loop, Timer, Subscriber-Publisher,... utilizing POSIX system calls, research in CyberSecurity projects like CTF (Capture The Flag), Cheat Engine, Malware, DLL injection, Memory scan/protection, Encryption algorithm like AES, DES, RSA,...
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-giangnguyentbk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giang-nguyentbk/)
 
