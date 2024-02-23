@@ -48,4 +48,4 @@ I am a C/C++ Software Engineer <img src="https://media.giphy.com/media/WUlplcMpO
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giang-nguyentbk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=giang-nguyentbk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
