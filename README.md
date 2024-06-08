@@ -28,7 +28,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="30"> :
 I am a C/C++ Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
 - :telescope: I’m working as a Software Engineer and contributing to 5G radio software project at DEK Technologies VN.
 
@@ -40,12 +40,11 @@ I am a C/C++ Software Engineer <img src="https://media.giphy.com/media/WUlplcMpO
 
 ---
 
-### :hammer_and_wrench: Languages and Tools <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="30"> :
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 </div>
 
 ---
